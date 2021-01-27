@@ -43,3 +43,4 @@ for(let i = 0; i < n; i++){
 console.log(cont[0] + ' Multiplo(s) de 2')
 console.log(cont[1] + ' Multiplo(s) de 3')
 console.log(cont[2] + ' Multiplo(s) de 4')
+console.log(cont[3] + ' Multiplo(s) de 5')
